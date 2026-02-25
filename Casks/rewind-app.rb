@@ -1,6 +1,6 @@
-cask "rewind" do
-  version "0.1.0"
-  sha256 "4f95031584ce218b48f9ea9b12464a40c50e555974faa4c4ca16ab290f749160"
+cask "rewind-app" do
+  version "0.2.0"
+  sha256 "9816d170c34aee426353aacf3b347806c9aac1e4656eacaa22012617f3f86992"
 
   url "https://github.com/l1zov/rewind/releases/download/v#{version}/Rewind-v#{version}.zip"
   name "Rewind"
